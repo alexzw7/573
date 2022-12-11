@@ -57,6 +57,7 @@ def getAllFruits():
 #Choose your Fruits
 #fruits = ['Pineapple', 'Banana', 'Blueberry', 'Orange', 'Cocos', 'Mango', 'Peach', 'Pear', 'Watermelon', 'Strawberry', 'Avocado', 'Corn']
 rfruits = getAllFruits()[0:25]
+print(rfruits)
 
 #Get Images and Labels 
 X_t, y_train =  getYourFruits(rfruits, 'Training', print_n=True, k_fold=False)
