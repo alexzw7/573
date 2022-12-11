@@ -1,1 +1,1 @@
-# 573
+This repository contains the code we used for the 573 project. The large app folder contains the python program that we slightly modified from the notebook: https://www.kaggle.com/code/waltermaffy/fruit-classification-pca-svm-knn-decision-tree/. The CProfiler folder contains the results of running cProfiler on applications. We did not include the SKLearn example applications that we ran, but they can be found in the examples folder of the SKLearn repository: https://github.com/scikit-learn/scikit-learn.
